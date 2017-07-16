@@ -4,7 +4,7 @@ Places in program to edit settings:
 
 Client: 
 Directory: bin\binexternal\ - add new scripts here
-<br>
+</br>
 file: main.ps1
 -ftpuser 
 -ftpserver
