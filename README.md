@@ -24,6 +24,6 @@ Web Server:
 
 file: style.css
 
-file: columns.css
+file: columns.csv
 
 Directory: wwwroot\clients\ - add new client numbers here for clients
